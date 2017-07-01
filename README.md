@@ -1,0 +1,2 @@
+# javaScriptAll
+Learning and practicing 
